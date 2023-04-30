@@ -21,27 +21,27 @@ To complete this workshop, you are provided with an AWS account via the AWS Even
 eg: `0123-456789abcd-ef`
 
 1. Go to https://dashboard.eventengine.run to log into AWS Event Engine.
-    ![](../static/images/event-engine-step-1.png)
+    ![](/images/event-engine-step-1.png)
 
 1. Enter the 16-character Event Hash code and choose *Accept Terms & Login*.
 
-    ![](../static/images/event-engine-step-2.png)
+    ![](/images/event-engine-step-2.png)
 
 1. In the "Sign in with" page, select *Email One-Time Password (OTP)*.
 
-    ![](../static/images/event-engine-step-3.png)
+    ![](/images/event-engine-step-3.png)
 
 1. Type in your email address that you have access to, and click *Send passcode*.
 
-    ![](../static/images/event-engine-step-4.png)
+    ![](/images/event-engine-step-4.png)
 
 1. You will have an email with a subject "Your one-time passcode", which contains the passcode. Enter the passcode and press *Sign in*.
 
-    ![](../static/images/event-engine-step-5.png)
+    ![](/images/event-engine-step-5.png)
 
 1. Now you will redirected to the Team Dashboard. Choose **AWS Console**, then **Open AWS Console**.
 
-    ![](../static/images/event-engine-step-6.png)
+    ![](/images/event-engine-step-6.png)
 
 {{% notice note %}}
 This account is temporary and will be deleted after the workshop today.
